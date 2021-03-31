@@ -1,2 +1,2 @@
-# updated-teleportal
-fancy stuff
+# teleportal-self-game
+help
